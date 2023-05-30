@@ -1,0 +1,2 @@
+export const SET_SECOND_TRUE = 'SET_SECOND_TRUE';
+export const SET_SECOND_FALSE = 'SET_SECOND_FALSE';
