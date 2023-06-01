@@ -58,5 +58,7 @@
 		<string>Caveat-Regular.ttf</string>
 		<string>Caveat-SemiBold.ttf</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>Shruti needs access to your Camera.</string>
 </dict>
 </plist>

@@ -78,6 +78,7 @@ const styles = StyleSheet.create({
   text: {
     fontSize: 14,
     color: 'black',
+    marginBottom:10
   },
   modelView: {
     margin: 20,
